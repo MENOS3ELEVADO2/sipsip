@@ -1,0 +1,18 @@
+/* Estilo a nivel de etiqueta HTML*/
+body {
+    background-color: #80FAF2;
+}
+/* Estilo a nivel de id*/
+#tituloprincipal {
+    margin-left: 100px;
+    background-color: antiquewhite;
+    padding: 15px;
+    border-radius: 15px;
+}
+/* Estilo a nivel de clase*/
+.resultado {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px;
+}
